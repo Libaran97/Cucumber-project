@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.TakesScreenshot;

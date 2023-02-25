@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import java.util.Iterator;
 import java.util.List;

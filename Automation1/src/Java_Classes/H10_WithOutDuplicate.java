@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import java.util.HashSet;
 import java.util.List;

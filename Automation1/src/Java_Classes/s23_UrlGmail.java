@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

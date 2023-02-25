@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

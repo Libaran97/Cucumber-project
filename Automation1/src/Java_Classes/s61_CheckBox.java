@@ -1,4 +1,4 @@
-package qsp;
+package Java_Classes;
 
 import java.util.List;
 import java.util.Scanner;
